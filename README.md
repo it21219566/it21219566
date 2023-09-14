@@ -2,7 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Kulana+Thathsara!;" />
 </h1>
 
-<h3 align="center">Software Engineering Undergraduate | Passionate about Crafting Clean Code & Building Innovative Solutions</h3>
+<h3 align="center">Software Engineering Undergraduate 👨‍💻</h3>
+<h3 align="center">Passionate about Crafting Clean Code & Building Innovative Solutions 🚀</h3>
 
 <br/>
 
