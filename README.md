@@ -50,7 +50,7 @@
   <img width=390 src="https://streak-stats.demolab.com/?user=it21219566&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=it21219566&show_icons=true&theme=react" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it21219566&layout=donut&theme=react" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it21219566&layout=compact&theme=react" />
 </div>
 
 <br/><br/>
