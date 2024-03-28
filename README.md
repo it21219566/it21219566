@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Anguler, REST API, DevOps, AI and ML, Oracle**
 
- 💬 Ask me about **MERN Satck, Python, Kotlin... or anything [here](https://github.com/it21219566/it21219566/issues)**
+ 💬 Ask me about **MERN Stack, Python, Kotlin... or anything [here](https://github.com/it21219566/it21219566/issues)**
 
  ⚡ Did you knew, **C programming language has a predecessor known as “B,” which was conceived and written by Ken Thompson in 1969.**
  
@@ -36,8 +36,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,php,java,javascript,c,cpp,python,kotlin" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,mongodb,express,react,nodejs,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse,github,figma,postman,mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=tailwind,mongodb,express,react,nodejs,firebase,mysql,sqlite,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,sublime,eclipse,git,github,figma,postman,anaconda" />
 </div>
 
 <br/>
